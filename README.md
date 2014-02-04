@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ndb_store
 =========
 
@@ -39,3 +40,7 @@ The API has 2 routes at present 'write' for creating a datastore record and 'rea
  
  
  
+=======
+in_class_ndb_store
+==================
+>>>>>>> c1b006a4e88870f569a96a3b400183afb96dd886
